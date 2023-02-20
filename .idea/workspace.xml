@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a99e6a4b-f36d-4685-93ed-7322f5374c12" name="默认变更列表" comment="" />
+    <list default="true" id="a99e6a4b-f36d-4685-93ed-7322f5374c12" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../movie-resource" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -128,6 +130,8 @@
       <updated>1676026145778</updated>
       <workItem from="1676026147137" duration="246000" />
       <workItem from="1676026432171" duration="707000" />
+      <workItem from="1676515316878" duration="1008000" />
+      <workItem from="1676549925560" duration="601000" />
     </task>
     <servers />
   </component>
